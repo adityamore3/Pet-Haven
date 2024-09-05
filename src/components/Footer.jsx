@@ -98,7 +98,7 @@ const Footer = () => {
             </SocialIcon>
           </a>
           <a
-            href="linkedin.com/in/aditya-more-682233274/"
+            href="https://www.linkedin.com/in/aditya-more-682233274"
             target="blank"
             rel="noreferrer"
           >
@@ -107,7 +107,7 @@ const Footer = () => {
             </SocialIcon>
           </a>
           <a
-            href="github.com/adityamore3/adityamore3"
+            href="https://github.com/adityamore3/adityamore3"
             target="blank"
             rel="noreferrer"
           >

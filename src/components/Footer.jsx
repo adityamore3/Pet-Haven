@@ -91,7 +91,7 @@ const Footer = () => {
           <a
             href="mailto:adityamore7860@gmail.com"
             target="blank"
-            rel="noreferrer"
+{/*             rel="noreferrer" */}
           >
             <SocialIcon color="E4405F">
               <AiFillMail />
@@ -100,7 +100,7 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/aditya-more-682233274"
             target="blank"
-            rel="noreferrer"
+{/*             rel="noreferrer" */}
           >
             <SocialIcon color="3B5999">
               <AiFillLinkedin />
@@ -109,7 +109,7 @@ const Footer = () => {
           <a
             href="https://github.com/adityamore3/adityamore3"
             target="blank"
-            rel="noreferrer"
+{/*             rel="noreferrer" */}
           >
             <SocialIcon color="000000">
               <AiFillGithub />
